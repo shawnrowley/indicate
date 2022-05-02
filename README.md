@@ -1,6 +1,6 @@
 # indicate
 
-Future Indicator analysis and assessment project 
+Future Indicator analysis and assessment pet project 
 
 React (Class), NodeJs, Sequelize, PostgreSQL
 
